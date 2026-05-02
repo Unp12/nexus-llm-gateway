@@ -1,0 +1,11 @@
+# Ignore Python virtual environments
+venv/
+__pycache__/
+*.pyc
+
+# Ignore Node modules
+node_modules/
+dist/
+
+# IMPORTANT: Ignore your secret keys
+.env
